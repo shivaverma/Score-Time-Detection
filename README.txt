@@ -10,8 +10,8 @@ data/               ---->      It stores the image to detect, uploaded on the si
 model/              ---->      Contain the pretrained model (LSTM + CNN).
 sliding_window/     ---->      Sliding window approach implementation. 
 templates/          ---->      HTML page for the web page.
-app.py              ---->      Python flask app. Use code from final_project.py
-final_project.py    ---->      Main implementation of the code.
+app.py              ---->      Python flask app. Uses the code from final_project.py
+final_project.py    ---->      Main approach implementation. Used by app.py
 jupyter.ipynb       ---->      Same implementation of final_project.py in ipython notebook.
 requirements.txt    ---->      Required python packages.
 test.ipynb          ---->      Script to generate frames from a video.
