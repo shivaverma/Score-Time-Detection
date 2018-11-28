@@ -1,6 +1,6 @@
 ### About the Project:
 
-- This Software detect the Score and Time written on the top left corner in the football match.
+- This Software detects the Score and Time written on the top left corner in the football match.
 - For now Software supports only one particular format of the game.
 - I am using a combination of LSTM and CNN networks to detect the information.
 - Detction accuracy is more than 95%. 
