@@ -4,4 +4,4 @@ This software detect the score and time written on the top left corner in the fo
 
 ### Input Image:
 
-![](data/demo.png)
+![](data/demo.png =100*100)
