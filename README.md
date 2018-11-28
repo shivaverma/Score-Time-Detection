@@ -1,6 +1,9 @@
-# Score Time Detection:
+### About the Project:
 
-This software detect the score and time written on the top left corner in the football match. For now it supports only one perticular format.
+- This Software detect the Score and Time written on the top left corner in the football match.
+- For now Software supports only one particular format of the game.
+- I am using a combination of LSTM and CNN networks to detect the information.
+- Detction accuracy is more than 95%. 
 
 ### Input Image:
 
