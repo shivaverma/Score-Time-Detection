@@ -9,7 +9,7 @@
 
 ![](data/demo.png)
 
-### Output prediction
+### Output detection
 
 ![](data/output.png)
 
