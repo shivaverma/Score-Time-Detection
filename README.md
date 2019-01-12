@@ -7,7 +7,7 @@
 
 ### Input Image:
 
-![](data/input.png)
+![](data/demo.png)
 
 ### Output prediction
 
