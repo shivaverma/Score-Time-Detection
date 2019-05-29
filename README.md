@@ -1,4 +1,4 @@
-### About the Project:
+## Introduction:
 
 - This Software detects the Score and Time written on the top left corner in the football match.
 - For now Software supports only one particular format of the game.
@@ -7,9 +7,9 @@
 
 ### Input Image:
 
-![](data/input.png)
+![](data/demo.png)
 
-### Output prediction
+### Output detection
 
 ![](data/output.png)
 
